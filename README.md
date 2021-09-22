@@ -6,6 +6,7 @@
 **◓**: Pokeball Unicode
 
 ![png](./media/drago_ver.png)
+![png](./media/dragosmara-2.png)
 
 Terminal: [Alacritty](https://github.com/alacritty/alacritty)
 
